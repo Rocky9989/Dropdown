@@ -1,0 +1,26 @@
+/* Import Tailwind CSS base styles */
+@tailwind base;
+
+/* Import Tailwind CSS components */
+@tailwind components;
+
+/* Import Tailwind CSS utilities */
+@tailwind utilities;
+
+/* Import Google Fonts Roboto */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+/* Apply global styles to all elements */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+/* Center the body content */
+body {
+  display: flex;
+  justify-content: center;
+  margin-top: 10%;
+}
