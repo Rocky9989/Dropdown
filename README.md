@@ -16,7 +16,7 @@ To integrate the Simple Dropdown Component into your project, follow these steps
 2. Ensure you have TailwindCSS configured in your project for styling.
 
 ## Demo
-[IMDb Clone App](https://simple-dropdown-app.netlify.app/)
+[Dropdown](https://simple-dropdown-app.netlify.app/)
 
 ## Authors
 - Bykanollu Rakesh
